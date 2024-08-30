@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178204640553",
+    "project_id": "project01-babf2",
+    "storage_bucket": "project01-babf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178204640553:android:d354e1c4941ee7e17ea338",
+        "android_client_info": {
+          "package_name": "com.example.project01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0E7CPigOR3hbQjXZuiNO8wUQVn_hN0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
